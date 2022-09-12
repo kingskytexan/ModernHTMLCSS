@@ -51,6 +51,11 @@ p {
     cursor: pointer;
 }
 
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
 .btn:hover {
     background: #f7c08a;
     color: #333;
@@ -114,3 +119,5 @@ p {
     padding-bottom: 20px;
     line-height: 1.7em;
 }
+
+/* Home Info */
